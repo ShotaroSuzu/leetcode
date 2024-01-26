@@ -1,0 +1,29 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "my leet code answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShotaroSuzu/leetcode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "algorithm"
+  ],
+  "author": "ShotaroSuzu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShotaroSuzu/leetcode/issues"
+  },
+  "homepage": "https://github.com/ShotaroSuzu/leetcode#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "vitest": "^1.2.1"
+  }
+}
